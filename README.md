@@ -1,8 +1,7 @@
 # Todo App
 
 ## Introduction:
-This project is a simple non-authenticated Todo application. It allows users to create todos, view todos, and mark todos as done. No authentication is required to use this app.
-
+This project is a simple non-authenticated Todo application. It allows users to create todos, view todos, and mark todos as done.
 ## Technologies Used:
 - Backend:
     - Node.js
